@@ -1,1 +1,1 @@
-# explorando_base_de_dados_NETFLIX
+# explorando_base_de_dados
